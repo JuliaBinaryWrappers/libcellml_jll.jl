@@ -1,6 +1,6 @@
 name = "libcellml_jll"
 uuid = "2a231547-1e2e-5ce0-a51e-f3f5ef0a1add"
-version = "0.5.0+0"
+version = "0.6.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -12,3 +12,6 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
+XML2_jll = "2.13.4"
+Libdl = "< 0.0.1, 1"
+Artifacts = "< 0.0.1, 1"

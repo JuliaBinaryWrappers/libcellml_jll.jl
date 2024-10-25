@@ -1,142 +1,150 @@
 [[libcellml]]
 arch = "aarch64"
-git-tree-sha1 = "a7aaeab5ec82759460158774a68825ddffce16cc"
+git-tree-sha1 = "567db489aea8a051611c1c6a3abd30dfc978d9a0"
 os = "macos"
 
     [[libcellml.download]]
-    sha256 = "c29c8b63566304ae6acd902b4e3bb9f8b2a326e5193a78e105f785c2fee2580f"
-    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.5.0+0/libcellml.v0.5.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "d7182aed779255b94f5f8cfbc45960d6efd7559911f62c3f8195bdb102ebb332"
+    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.6.0+0/libcellml.v0.6.0.aarch64-apple-darwin.tar.gz"
 [[libcellml]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "480a10e2f894759bc5e35b5693beb2bb86571599"
+git-tree-sha1 = "799d4aada1b1b6e0999a2f8f04d41f4836bf56eb"
 libc = "glibc"
 os = "linux"
 
     [[libcellml.download]]
-    sha256 = "ddbfdfb3fad36475dcf60502a7f8f06848079026d437dd1b79e1825d0a731443"
-    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.5.0+0/libcellml.v0.5.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "357b3a4662625651276a8b54b028522e64f86a69d30ed03c744dcbcf66544922"
+    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.6.0+0/libcellml.v0.6.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[libcellml]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d8879033d0d68af085bb0911823aa1201d8ccf1c"
+git-tree-sha1 = "87b6f1a4a145f33766e4ec610a8b408d9f94e651"
 libc = "glibc"
 os = "linux"
 
     [[libcellml.download]]
-    sha256 = "cf541bd152a2e8d180685569f8d0d3958c9048ffe913d9a9e423b00a98e4bd15"
-    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.5.0+0/libcellml.v0.5.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "21fc0eb16faf968fb1995f8ee861ca6b9a7d1a2940f081275cf68cab2f61d23d"
+    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.6.0+0/libcellml.v0.6.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[libcellml]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "50330c4e21761cb47274ce0bb232f0655ba5ffbc"
+git-tree-sha1 = "90d55c18b19173dceae67fa5711623c5ca501f66"
 libc = "musl"
 os = "linux"
 
     [[libcellml.download]]
-    sha256 = "174e04069f51dbbab0dcb2ca9188329ec7b59e2041938501056cdad866c521de"
-    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.5.0+0/libcellml.v0.5.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "46871c2484c1a3abe40d9b5bca21eb5a22b7e4651e1998ba5dcc1b24c2b59d96"
+    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.6.0+0/libcellml.v0.6.0.aarch64-linux-musl-cxx03.tar.gz"
 [[libcellml]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a5cb08612c7ce41cf4dc5ecc374c1d75e05bbb35"
+git-tree-sha1 = "40fdf522bb76fd4b5869d5b2bb99782053cdebe0"
 libc = "musl"
 os = "linux"
 
     [[libcellml.download]]
-    sha256 = "0c288b32d5e9ef98eb001f1719590d0f753fb5de15396877e379634fb93a8018"
-    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.5.0+0/libcellml.v0.5.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "6cf92f8a4f03f68bfc02f03f827914c43d5ef1ae986f25bcb174c68476b8ca93"
+    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.6.0+0/libcellml.v0.6.0.aarch64-linux-musl-cxx11.tar.gz"
 [[libcellml]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "9227bc5bef392cb73e435f305b9e61a6b1be5254"
-libc = "glibc"
-os = "linux"
-
-    [[libcellml.download]]
-    sha256 = "6f2b95bb1b0e88618aa9c620a19688887ff62a35f40b07f120d8d6b0b389a788"
-    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.5.0+0/libcellml.v0.5.0.powerpc64le-linux-gnu-cxx03.tar.gz"
-[[libcellml]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d13ef8825ab26c8fa78229a59e44e104174a3b3f"
-libc = "glibc"
-os = "linux"
-
-    [[libcellml.download]]
-    sha256 = "21df5f79e7312e3e273a5e617ee9a289452f6962f93d1399b73e4787d0d93ef7"
-    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.5.0+0/libcellml.v0.5.0.powerpc64le-linux-gnu-cxx11.tar.gz"
-[[libcellml]]
-arch = "x86_64"
-git-tree-sha1 = "9485b739d0c22ab7c2c37f73f066490c34cee53e"
-os = "macos"
-
-    [[libcellml.download]]
-    sha256 = "2d6567e86770d5a68deaaf4b763fa7a377cdb5df1e59582866dd28841d358f94"
-    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.5.0+0/libcellml.v0.5.0.x86_64-apple-darwin.tar.gz"
-[[libcellml]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f518b7f644cee1ec9a027c775973fb306d9cd046"
-libc = "glibc"
-os = "linux"
-
-    [[libcellml.download]]
-    sha256 = "4ce258a611ebd374d24c36c452c27d3afe52a52d25e8da1ee6262216509f84d9"
-    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.5.0+0/libcellml.v0.5.0.x86_64-linux-gnu-cxx03.tar.gz"
-[[libcellml]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "b20e9d4ed6c93873e9e26951e296db8fcb38801e"
-libc = "glibc"
-os = "linux"
-
-    [[libcellml.download]]
-    sha256 = "9abe855ea00a3b32599dc3f21a36ba3e78bd9e3037113cfe2d4054c77af7aca0"
-    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.5.0+0/libcellml.v0.5.0.x86_64-linux-gnu-cxx11.tar.gz"
-[[libcellml]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "a0d0fa72592128beaab7b79d3754215d223ef850"
-libc = "musl"
-os = "linux"
-
-    [[libcellml.download]]
-    sha256 = "a56ef0c910e07fd98185d3290e927438635ec068a13d98f29d0b3342245cce53"
-    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.5.0+0/libcellml.v0.5.0.x86_64-linux-musl-cxx03.tar.gz"
-[[libcellml]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "856c4653fc8a9baa7d5ff4df9e21d6df55a01a29"
-libc = "musl"
-os = "linux"
-
-    [[libcellml.download]]
-    sha256 = "a8b77136d6859b092fc6c649023c5f3ab2b43bc7fd894af0062a75df0b4b85bd"
-    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.5.0+0/libcellml.v0.5.0.x86_64-linux-musl-cxx11.tar.gz"
-[[libcellml]]
-arch = "x86_64"
-git-tree-sha1 = "c498fa7175cd3d6061c9d7a60214e5abe5fe810c"
+arch = "aarch64"
+git-tree-sha1 = "96db9ca0a14813a2fba4b33430531b117527e9ab"
 os = "freebsd"
 
     [[libcellml.download]]
-    sha256 = "61a3f8234d64ae281b04bf734500f968a7e70805e1f3b809865306d2dd768c65"
-    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.5.0+0/libcellml.v0.5.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "ce80f451439c966ff0ff7315c7e894b85ad9a35dfb8400a4b9a5d77c5fbe6ec3"
+    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.6.0+0/libcellml.v0.6.0.aarch64-unknown-freebsd.tar.gz"
+[[libcellml]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "699ceb56e1440f3b362d391f39341b58213905be"
+libc = "glibc"
+os = "linux"
+
+    [[libcellml.download]]
+    sha256 = "ef92983d13d9e24053845133e8514c23e8f22ba57f441eb0ddb612ee173f7a0d"
+    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.6.0+0/libcellml.v0.6.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[libcellml]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "475f63e38b99ea2c88906e1aac402d86c84f2e1a"
+libc = "glibc"
+os = "linux"
+
+    [[libcellml.download]]
+    sha256 = "9c2d6f54b0db4bc7523cc39a1de14b38a07a13cd134916a5031cad24ac63dfd1"
+    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.6.0+0/libcellml.v0.6.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[libcellml]]
+arch = "x86_64"
+git-tree-sha1 = "bf2355729d6cbf2c4dc26742932c9b0243fed1f2"
+os = "macos"
+
+    [[libcellml.download]]
+    sha256 = "d99c1ff32f287923c3b4baf25cb228890a9b0d27ef075ff23b5f1c0533ab1b84"
+    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.6.0+0/libcellml.v0.6.0.x86_64-apple-darwin.tar.gz"
 [[libcellml]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1e252cf169679436968f0c9c813dc3fa236df615"
-os = "windows"
+git-tree-sha1 = "905e15a146ee5c0f6d55f1c8f6bf649dfac2739a"
+libc = "glibc"
+os = "linux"
 
     [[libcellml.download]]
-    sha256 = "a7aedfa772eb53cd8ae2b3b6d8fab2ffa37aae58bd1e6d88d0e8eafb780d5096"
-    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.5.0+0/libcellml.v0.5.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "7cb09806c4b725a773b6906cabdf50d9365968de503985a1b1a8356655087c10"
+    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.6.0+0/libcellml.v0.6.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[libcellml]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4438dc2fac3c14dc0eff234054587b02cdcea2cf"
+git-tree-sha1 = "020ace0baff6f3978f125c86411d2ca777459f7b"
+libc = "glibc"
+os = "linux"
+
+    [[libcellml.download]]
+    sha256 = "433ca745f249cf6823f04686656af7de5d1e2254badd9d944db02b2067f1614c"
+    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.6.0+0/libcellml.v0.6.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[libcellml]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ab0bcb662717fa1384f90a9d1c29021cd0299624"
+libc = "musl"
+os = "linux"
+
+    [[libcellml.download]]
+    sha256 = "0cb8338a939557f4f4cab3a901f18ca1fc9f6479d457dde2e046afa118306765"
+    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.6.0+0/libcellml.v0.6.0.x86_64-linux-musl-cxx03.tar.gz"
+[[libcellml]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "590222e90ef1c046f349898107727e7b182c32ec"
+libc = "musl"
+os = "linux"
+
+    [[libcellml.download]]
+    sha256 = "e07d488436ec6fb35e04802d6f8e3c75a4bcbafd75c627d9156beeed8bd9b584"
+    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.6.0+0/libcellml.v0.6.0.x86_64-linux-musl-cxx11.tar.gz"
+[[libcellml]]
+arch = "x86_64"
+git-tree-sha1 = "73eb4ffdae2c22c970090fc8aa9199dffefe192b"
+os = "freebsd"
+
+    [[libcellml.download]]
+    sha256 = "188eb9bd4249711e147ce1f7e505bc48f1d56a2ee4de8685c7b41e0aa72125ca"
+    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.6.0+0/libcellml.v0.6.0.x86_64-unknown-freebsd.tar.gz"
+[[libcellml]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "261b9c3075169469e847e24b570473d85bbae9f2"
 os = "windows"
 
     [[libcellml.download]]
-    sha256 = "120fef7c8ab1ef89cde7c7ed0652df840c05ac9b77887aeae05c829d3d8e41cc"
-    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.5.0+0/libcellml.v0.5.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "3c497c49018ea550ededa87ea0e1d4763c4e5e86ebddb7529333cc3f16e44adf"
+    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.6.0+0/libcellml.v0.6.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[libcellml]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "50e727184805e533835d5487ddd95f2ebdc4c978"
+os = "windows"
+
+    [[libcellml.download]]
+    sha256 = "3480b31760761afd4665de62ce2d5a1b7f6ac40b4a9c3d4d4444624ad54e900f"
+    url = "https://github.com/JuliaBinaryWrappers/libcellml_jll.jl/releases/download/libcellml-v0.6.0+0/libcellml.v0.6.0.x86_64-w64-mingw32-cxx11.tar.gz"

@@ -4,7 +4,7 @@ export libcellml
 using XML2_jll
 using Zlib_jll
 JLLWrappers.@generate_wrapper_header("libcellml")
-JLLWrappers.@declare_library_product(libcellml, "libcellml.so.0.6.0")
+JLLWrappers.@declare_library_product(libcellml, "libcellml.so.0.6.2")
 function __init__()
     JLLWrappers.@generate_init_header(XML2_jll, Zlib_jll)
     JLLWrappers.@init_library_product(

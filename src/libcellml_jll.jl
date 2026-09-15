@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("libcellml")
-JLLWrappers.@generate_main_file("libcellml", UUID("2a231547-1e2e-5ce0-a51e-f3f5ef0a1add"))
+JLLWrappers.@generate_main_file("libcellml", Base.UUID("2a231547-1e2e-5ce0-a51e-f3f5ef0a1add"))
 end  # module libcellml_jll
